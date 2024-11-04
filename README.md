@@ -1,4 +1,4 @@
-# Mileage Prediction - Reegression Analysis
+# Mileage Prediction - Regression Analysis
 
 The mileage prediction model uses regression analysis to predict the fuel efficiency (mileage) of a vehicle based on various input features.
 
